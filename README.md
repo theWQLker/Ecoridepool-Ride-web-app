@@ -90,6 +90,8 @@ ecoride-slim/
 │── ecoride_dump.sql (Export MySQL)
 │── ecoride_mongo_backup/ (Backup MongoDB)
 ```
+**Liens TRELLO**
+https://trello.com/invite/b/67a87c0b9363f0e262b65069/ATTI405cf8b5873e1d43354a587b67d4185d299EFD8E/ecoride-trelllo
 
 ## 🔍 Gestion des Branches Git
 
